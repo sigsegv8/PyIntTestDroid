@@ -1,0 +1,9 @@
+bin/
+build/
+gen/
+local.properties
+.settings/
+.pydevproject
+dist/
+*.egg-info/
+temp/
